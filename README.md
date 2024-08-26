@@ -27,4 +27,18 @@ This project involves analyzing fast food data using Power BI to provide insight
 - **SQL**: For data validation and querying.
 
 
-## Dashboard:-
+## Dashboards/Reports:-
+### Main Dashboard
+![fastfood1](https://github.com/user-attachments/assets/853f4ae2-aae7-47cc-8448-0cafc22125d7)
+
+### Item-Specific Dashboards
+![fastfood2](https://github.com/user-attachments/assets/9c752f8a-4457-4f9b-bd20-38e115e782bb)
+
+![fastfood3](https://github.com/user-attachments/assets/df4c6751-0a51-42da-8d37-8d95f2334e61)
+
+
+![fastfood4](https://github.com/user-attachments/assets/884a5fd5-b374-4c22-b486-07c9d44ddd5f)
+
+
+![fastfood4](https://github.com/user-attachments/assets/884a5fd5-b374-4c22-b486-07c9d44ddd5f)
+
