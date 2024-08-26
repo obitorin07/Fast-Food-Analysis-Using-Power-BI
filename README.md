@@ -40,5 +40,5 @@ This project involves analyzing fast food data using Power BI to provide insight
 ![fastfood4](https://github.com/user-attachments/assets/884a5fd5-b374-4c22-b486-07c9d44ddd5f)
 
 
-![fastfood4](https://github.com/user-attachments/assets/884a5fd5-b374-4c22-b486-07c9d44ddd5f)
+![fastfood5](https://github.com/user-attachments/assets/8cbd1ba1-c4a2-40ed-bf55-0d8318bee13c)
 
